@@ -1,0 +1,19 @@
+# This is a configuration file for a Twitter app
+
+# Your custom version should be located in your home directory
+# On Macs and Linux machines, you can find this by running
+#     echo ~
+# On Windows, you can find this by running
+#     echo %userprofile%
+
+# The format here is Python. Python dicts are much like JSON.
+
+# A Twitter app requires four things for authentication,
+# all strings.
+
+{
+ "consumer_key": "LcJEnNBroiIDm75e69Tt31pfl",
+ "consumer_secret": "tBaAoXpuPO3xws44Zlwqjl6U9pOS1n4uqlWVZDgWBfO3HJ98b3",
+ "access_token": "1058048220574543872-Q2L8zMxiRQc7Kcn59z5DyMBSI5PMht",
+ "access_token_secret": "SpzBMuMfstLrNkeDfcydKRFUmvDKbPgHQktp35WlW3ObP",
+}
